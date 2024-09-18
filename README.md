@@ -1,0 +1,1 @@
+# multipal_disease_public_app
